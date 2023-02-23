@@ -1,2 +1,2 @@
-### Hi am Joseph 👋
-## I'm a software developer, Android/Java
+
+## I'm a software developer, (Android/Java/kotlin)
